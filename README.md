@@ -21,12 +21,6 @@
 ### github stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nndclvdi&show_icons=true&theme=gruvbox&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nndclvdi&layout=compact&theme=gruvbox&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nndclvdi&theme=gruvbox&hide_border=true" />
 </p>
 
