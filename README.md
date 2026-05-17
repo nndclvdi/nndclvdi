@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&section=header&height=300&color=0:1B0F0A,50:3E2723,100:5D4037&text=Hi,%20Nanda%20here&fontSize=52&fontColor=F8F1E7&animation=fadeIn&fontAlignY=50)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=D7B19D&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;Data+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D7B19D&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Data+Enthusiast" />
 </p>
 ---
 
