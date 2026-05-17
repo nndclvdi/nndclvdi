@@ -42,17 +42,6 @@ machine learning enthusiast • data analyst
 
 ---
 
-### ☕ currently
-
-```python
-while alive:
-    eat()
-    code()
-    coffee()
-    sleep()
-```
-
----
 
 ### 🌎 connect with me
 
