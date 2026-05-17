@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=D7B19D&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;Data+Enthusiast" />
 </p>
-
-<p align="center">
-machine learning enthusiast • data analyst 
-</p>
-
 ---
 
 - 🎓 Informatics Student
