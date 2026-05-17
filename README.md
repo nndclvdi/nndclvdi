@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:3E2723,50:6D4C41,100:A1887F&height=250&section=header&text=Donanda%20Suwondo&fontSize=55&fontColor=FFF8E7&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=0:1B0F0A,50:3E2723,100:5D4037&text=Hi,%20Nanda%20here👩🏻‍💻&fontSize=60&fontColor=F8F1E7&animation=fadeIn&fontAlignY=50)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=D7B19D&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;Data+Enthusiast" />
 </p>
-
-<h1 align="center">hi, nanda here 👩🏻‍💻</h1>
 
 <p align="center">
 machine learning enthusiast • data analyst 
