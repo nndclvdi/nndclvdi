@@ -1,15 +1,15 @@
-<h1 align="center">hi, i'm donanda 👩🏻‍💻</h1>
+<h1 align="center">hi, nanda here 👩🏻‍💻</h1>
 
 <p align="center">
-frontend enthusiast • machine learning • sleepy coder
+machine learning enthusiast • data analyst • 
 </p>
 
 ---
 
 ### 🌷 about me
-- 🎓 Information Systems Student
-- 💻 Currently learning Next.js & Laravel
-- 🌱 Interested in UI/UX and Machine Learning
+- 🎓 Informatics Student
+- 💻 Currently learning Machine Learning
+- 🌱 Interested in Machine Learning & Data
 - ☕ survives on caffeine and deadlines
 
 ---
