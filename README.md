@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D7B19D&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Data+Enthusiast" />
 </p>
----
 
 - 🎓 Informatics Student
 - 💻 Currently learning Machine Learning & Data Analyst
