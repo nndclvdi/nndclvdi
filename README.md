@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:6D4C41,100:A1887F&height=220&section=header&text=Donanda%20Suwondo&fontSize=42&fontColor=FFF8E7&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:3E2723,50:6D4C41,100:A1887F&height=250&section=header&text=Donanda%20Suwondo&fontSize=55&fontColor=FFF8E7&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=D7B19D&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;Data+Analytics+Learner;Fueled+by+Coffee+%26+Deadlines;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=D7B19D&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;Data+Enthusiast" />
 </p>
 
 <h1 align="center">hi, nanda here 👩🏻‍💻</h1>
@@ -12,15 +12,13 @@ machine learning enthusiast • data analyst
 
 ---
 
-### 🌷 about me
-
 - 🎓 Informatics Student
-- 💻 Currently learning Machine Learning & Data Analytics
+- 💻 Currently learning Machine Learning & Data Analyst
 - ☕ survives on caffeine and deadlines
 
 ---
 
-### 🛠️ tech stack
+### tech stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,git,github,vscode" />
@@ -28,7 +26,7 @@ machine learning enthusiast • data analyst
 
 ---
 
-### 📊 github stats
+### github stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nndclvdi&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -43,7 +41,7 @@ machine learning enthusiast • data analyst
 ---
 
 
-### 🌎 connect with me
+### connect with me
 
 <p align="left">
   <a href="https://instagram.com/nndclvdi">
