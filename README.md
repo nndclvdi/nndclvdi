@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=0:1B0F0A,50:3E2723,100:5D4037&text=Hi,%20Nanda%20here👩🏻‍💻&fontSize=60&fontColor=F8F1E7&animation=fadeIn&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=blur&section=header&height=300&color=0:1B0F0A,50:3E2723,100:5D4037&text=Hi,%20Nanda%20here&fontSize=52&fontColor=F8F1E7&animation=fadeIn&fontAlignY=50)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=D7B19D&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;Data+Enthusiast" />
@@ -45,6 +45,11 @@ machine learning enthusiast • data analyst
   <a href="https://instagram.com/nndclvdi">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+
+   <a href="https://linkedin.com/in/nndclvdi">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 </p>
 
 ---
